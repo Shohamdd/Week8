@@ -1,0 +1,14 @@
+.lang {
+  display: flex;
+  border: 5px solid black;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  margin: auto;
+  background-color: blanchedalmond;
+  
+}
+
+.lang p {
+  padding: 15px;
+}
